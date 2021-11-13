@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Crime_DW_ETL", "Crime_DW_ETL\Crime_DW_ETL.dtproj", "{2A32C424-7610-424C-AD26-D26A22F1EB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A32C424-7610-424C-AD26-D26A22F1EB30}.Development|Default.ActiveCfg = Development
+		{2A32C424-7610-424C-AD26-D26A22F1EB30}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD67662-4987-4622-BE4B-C9087FA8D863}
+	EndGlobalSection
+EndGlobal
